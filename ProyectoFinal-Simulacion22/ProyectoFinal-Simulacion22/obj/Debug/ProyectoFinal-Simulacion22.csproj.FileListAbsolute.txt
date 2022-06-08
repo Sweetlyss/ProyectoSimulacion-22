@@ -1,0 +1,13 @@
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\bin\Debug\ProyectoFinal-Simulacion22.exe.config
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\bin\Debug\ProyectoFinal-Simulacion22.exe
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\bin\Debug\ProyectoFinal-Simulacion22.pdb
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal-Simulacion22.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal_Simulacion22.Menu.resources
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal_Simulacion22.PI.resources
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal_Simulacion22.Properties.Resources.resources
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal-Simulacion22.csproj.GenerateResource.cache
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal-Simulacion22.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal-Simulacion22.exe
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal-Simulacion22.pdb
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal_Simulacion22.MANZANAS.resources
+C:\Users\lyss_\source\repos\ProyectoFinal-Simulacion22\ProyectoFinal-Simulacion22\obj\Debug\ProyectoFinal_Simulacion22.VOLADOS.resources
